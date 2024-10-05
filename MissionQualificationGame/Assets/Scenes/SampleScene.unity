@@ -5989,6 +5989,15 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1798712086522661826, guid: 1c438d22d0dc93d44a66b3709901a261, type: 3}
+      propertyPath: m_text
+      value: "Bir \u015Firket, son zamanlarda \xE7al\u0131\u015Fanlar\u0131n\u0131n
+        performans\u0131nda d\xFC\u015F\xFC\u015F ya\u015Fad\u0131\u011F\u0131n\u0131
+        fark etti. \xC7al\u0131\u015Fanlar aras\u0131nda motivasyon eksikli\u011Fi,
+        d\xFC\u015F\xFCk verimlilik ve y\xFCksek i\u015Ften ayr\u0131lma oranlar\u0131
+        g\xF6zlemleniyor. \u015Eirket y\xF6neticileri, bu durumun g\xF6rev y\xF6netimi
+        eksikli\u011Finden kaynakland\u0131\u011F\u0131n\u0131 d\xFC\u015F\xFCn\xFCyor."
+      objectReference: {fileID: 0}
     - target: {fileID: 3099163417159118796, guid: 1c438d22d0dc93d44a66b3709901a261, type: 3}
       propertyPath: m_LocalPosition.x
       value: 940.10925
