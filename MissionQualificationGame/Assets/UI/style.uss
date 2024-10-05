@@ -1,0 +1,59 @@
+.button-style {
+    height: 75px;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    width: 252px;
+    background-image: url('project://database/Assets/UI/00.png?fileID=-1522430456&guid=4f462fa00fd02e442addee6cfda1935d&type=3#00_34');
+    background-color: rgba(15, 71, 96, 0);
+    color: rgb(241, 237, 237);
+    font-size: 56px;
+    margin-left: 11px;
+    margin-right: 11px;
+    margin-top: 11px;
+    margin-bottom: 11px;
+    padding-top: 14px;
+    -unity-font: url('project://database/Assets/Fonts/PixelSans.ttf?fileID=12800000&guid=508904b2ae688ff4a99110363ef07ddd&type=3#PixelSans');
+    -unity-font-definition: ınitial;
+    -unity-text-align: upper-center;
+    -unity-background-image-tint-color: rgb(255, 255, 255);
+}
+
+.button-style:hover {
+    height: 75px;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    width: 252px;
+    background-image: url('project://database/Assets/UI/00.png?fileID=-1522430456&guid=4f462fa00fd02e442addee6cfda1935d&type=3#00_34');
+    background-color: rgba(127, 127, 127, 0);
+    color: rgb(255, 255, 255);
+    font-size: 56px;
+    margin-left: 11px;
+    margin-right: 11px;
+    margin-top: 11px;
+    margin-bottom: 11px;
+    transition-duration: 0.35s;
+    scale: 1.1 1.1;
+    -unity-background-image-tint-color: rgb(132, 145, 188);
+}
+
+.button-style:active {
+    height: 75px;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    width: 252px;
+    background-image: url('project://database/Assets/UI/00.png?fileID=-1522430456&guid=4f462fa00fd02e442addee6cfda1935d&type=3#00_34');
+    background-color: rgba(188, 188, 188, 0);
+    color: rgb(241, 237, 237);
+    font-size: 56px;
+    margin-left: 11px;
+    margin-right: 11px;
+    margin-top: 11px;
+    margin-bottom: 11px;
+    -unity-background-image-tint-color: rgb(255, 255, 255);
+}

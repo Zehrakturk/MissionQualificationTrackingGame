@@ -1,0 +1,1711 @@
+fileFormatVersion: 2
+guid: 946937264801fb045870b1f454099a12
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UI_Mobile2_InterfaceFull_0
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 3267
+        width: 383
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b6b465360cecd84f82a3c16f74061fe
+      internalID: -1368393643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Mobile2_InterfaceFull_1
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 3267
+        width: 383
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23817c4115f681244828231201057898
+      internalID: -989944625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Mobile2_InterfaceFull_2
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 3269
+        width: 336
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ec0cfe18a3b8df408a7ae0d4c65479d
+      internalID: -985322460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Mobile2_InterfaceFull_3
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 3267
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b605ddf7f4fe89d4d9b94c5a21b8551d
+      internalID: -1523775221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Mobile2_InterfaceFull_4
+      rect:
+        serializedVersion: 2
+        x: 1709
+        y: 3267
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf5cb4059d79e1f41869d74e08c0ed83
+      internalID: -1640317085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Mobile2_InterfaceFull_5
+      rect:
+        serializedVersion: 2
+        x: 1966
+        y: 3269
+        width: 337
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e5fe259ca86f1479efc4fd6139eea5
+      internalID: 1129283518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Mobile2_InterfaceFull_6
+      rect:
+        serializedVersion: 2
+        x: 2402
+        y: 3237
+        width: 1096
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 265ca35252457e845853c2f2828d371b
+      internalID: 557407606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Mobile2_InterfaceFull_7
+      rect:
+        serializedVersion: 2
+        x: 3618
+        y: 3250
+        width: 520
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a7de9008bef9e84ca85fdc5f40c43c6
+      internalID: 823305306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Mobile2_InterfaceFull_8
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 2926
+        width: 208
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23bbd09b58282b449a9adf7e61c0565b
+      internalID: -702860556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Mobile2_InterfaceFull_9
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 2926
+        width: 206
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6669bc0dc8270040a7c85ababd8061f
+      internalID: -2012293239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Mobile2_InterfaceFull_10
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 2926
+        width: 206
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb8b83c0be1c414a99adb7ede50d36f
+      internalID: -2028649879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Mobile2_InterfaceFull_11
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 2926
+        width: 207
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 366dd23bf1f31e14299d64ebc5851e1e
+      internalID: -1740874882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Mobile2_InterfaceFull_12
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 2958
+        width: 168
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f4c5a0440eb624896a55b1fc4ef6e4
+      internalID: -421766350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Mobile2_InterfaceFull_13
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 2913
+        width: 198
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acec7732acffd99429e2748f1ae21e80
+      internalID: 1180120979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Mobile2_InterfaceFull_14
+      rect:
+        serializedVersion: 2
+        x: 2012
+        y: 2913
+        width: 198
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4620248a3aa1c5f49b465f29a43aa453
+      internalID: 255566208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Mobile2_InterfaceFull_15
+      rect:
+        serializedVersion: 2
+        x: 2366
+        y: 2913
+        width: 198
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31bcc30c8be12db4194c5a08a1f4e331
+      internalID: -960615824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Mobile2_InterfaceFull_16
+      rect:
+        serializedVersion: 2
+        x: 2671
+        y: 2913
+        width: 198
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6385216f9bb436a41890f848e32367fe
+      internalID: 32604332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Mobile2_InterfaceFull_17
+      rect:
+        serializedVersion: 2
+        x: 2981
+        y: 2913
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58e52e346de658a4d82e18bd9f647f7f
+      internalID: -1423236713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Mobile2_InterfaceFull_18
+      rect:
+        serializedVersion: 2
+        x: 3286
+        y: 2913
+        width: 198
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f7d0c44cbfcc245aa6361383635f0f
+      internalID: -1062521579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Mobile2_InterfaceFull_19
+      rect:
+        serializedVersion: 2
+        x: 3644
+        y: 2913
+        width: 198
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68292b99ac376c448a441efd8f66ca52
+      internalID: 339110676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Mobile2_InterfaceFull_20
+      rect:
+        serializedVersion: 2
+        x: 3949
+        y: 2913
+        width: 198
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 378cba0d148faee429ac3b09083c9e3a
+      internalID: -981519204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Mobile2_InterfaceFull_21
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 2640
+        width: 526
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b83b4c4e300a50429b06379c92fc77f
+      internalID: 810493200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Mobile2_InterfaceFull_22
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 2640
+        width: 188
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da39b0f140fdc6d4f96f203f56a22e32
+      internalID: 925525019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Mobile2_InterfaceFull_23
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 2621
+        width: 381
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d384c4b8a1c13c4da2a6e2d88d951c0
+      internalID: -1904607516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Mobile2_InterfaceFull_24
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 2629
+        width: 440
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 378f6d1b306a8344e8413052e47b4d80
+      internalID: -2095895540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Mobile2_InterfaceFull_25
+      rect:
+        serializedVersion: 2
+        x: 2132
+        y: 2629
+        width: 440
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ae35bd67a330e443aa46a768ab7994d
+      internalID: -802027846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Mobile2_InterfaceFull_26
+      rect:
+        serializedVersion: 2
+        x: 2667
+        y: 2621
+        width: 211
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae45dab9e8474d46af3c1d60c697cd5
+      internalID: 527877960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Mobile2_InterfaceFull_27
+      rect:
+        serializedVersion: 2
+        x: 2985
+        y: 2627
+        width: 499
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa5fbcdc707e22c489cd310580efedeb
+      internalID: -1760571475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Mobile2_InterfaceFull_28
+      rect:
+        serializedVersion: 2
+        x: 3648
+        y: 2627
+        width: 499
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a2dc65065b8d747bff58b6d1efe009
+      internalID: -813450316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Mobile2_InterfaceFull_29
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 2377
+        width: 1758
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c569589e08a07f0489bac9fe5ef037b3
+      internalID: -666547023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Mobile2_InterfaceFull_30
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 2324
+        width: 198
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c148854d627550458d0fcb5097b2efb
+      internalID: 1214485196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Mobile2_InterfaceFull_31
+      rect:
+        serializedVersion: 2
+        x: 2368
+        y: 2324
+        width: 198
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc93b9d8f71b6c34cb58e75cbc89fddf
+      internalID: -1461985679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Mobile2_InterfaceFull_32
+      rect:
+        serializedVersion: 2
+        x: 2667
+        y: 2326
+        width: 211
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b24ef7e6c0cd9cb4090d7f08b9e80151
+      internalID: 1600442992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Mobile2_InterfaceFull_33
+      rect:
+        serializedVersion: 2
+        x: 2983
+        y: 2343
+        width: 499
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e786f0cde00390b47b32a86447cbbbb4
+      internalID: -569668089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Mobile2_InterfaceFull_34
+      rect:
+        serializedVersion: 2
+        x: 3648
+        y: 2343
+        width: 499
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3086a6dc70a37a4d87b5133bbe9accd
+      internalID: 828760744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Mobile2_InterfaceFull_35
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 2162
+        width: 1758
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be963137ca03684d967dd315df0a8b8
+      internalID: -1323300946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Mobile2_InterfaceFull_36
+      rect:
+        serializedVersion: 2
+        x: 2059
+        y: 1913
+        width: 339
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba607a2a954bea540a983fa367db4f69
+      internalID: 1852410032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Mobile2_InterfaceFull_37
+      rect:
+        serializedVersion: 2
+        x: 2518
+        y: 1869
+        width: 357
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a1dfbe05773cab4e823634d3c41d6e4
+      internalID: 1486745499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Mobile2_InterfaceFull_38
+      rect:
+        serializedVersion: 2
+        x: 3035
+        y: 1840
+        width: 95
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb6b2718cd5560439a9da6e0aa35a8a
+      internalID: -693730274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Mobile2_InterfaceFull_39
+      rect:
+        serializedVersion: 2
+        x: 3256
+        y: 528
+        width: 95
+        height: 1760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a3e5c06eb38b1d419d1504fd53976d9
+      internalID: 874248947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Mobile2_InterfaceFull_40
+      rect:
+        serializedVersion: 2
+        x: 3467
+        y: 528
+        width: 95
+        height: 1760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c116b932bb27c32459ee593fd6692572
+      internalID: 973226123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Mobile2_InterfaceFull_41
+      rect:
+        serializedVersion: 2
+        x: 3661
+        y: 528
+        width: 96
+        height: 1760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 432087d01fa4d63429ad9dcf4faee85b
+      internalID: -1403427309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Mobile2_InterfaceFull_42
+      rect:
+        serializedVersion: 2
+        x: 3865
+        y: 528
+        width: 97
+        height: 1760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f0be56d9eea1d241a2e62160125b2d3
+      internalID: -1637426545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Mobile2_InterfaceFull_43
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1945
+        width: 1758
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0addca274bf26344b28263aa2b1d779
+      internalID: -1728169328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Mobile2_InterfaceFull_44
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1711
+        width: 1758
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c20e186ebd01748822b8a8d6cc815a
+      internalID: -1738637035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Mobile2_InterfaceFull_45
+      rect:
+        serializedVersion: 2
+        x: 2078
+        y: 1713
+        width: 282
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69057220f0d177a40b1e8028006e28eb
+      internalID: 1390079753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Mobile2_InterfaceFull_46
+      rect:
+        serializedVersion: 2
+        x: 3042
+        y: 1669
+        width: 88
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad52e16d80286ad4aa7373f4734fb6ec
+      internalID: -2048024913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Mobile2_InterfaceFull_47
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1471
+        width: 1758
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27cf4558a162ae747a8d3f7ff7b3fcad
+      internalID: 1629211188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Mobile2_InterfaceFull_48
+      rect:
+        serializedVersion: 2
+        x: 2071
+        y: 1442
+        width: 211
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 995d0c5fbed23c64888162c35af54037
+      internalID: -1965677981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Mobile2_InterfaceFull_49
+      rect:
+        serializedVersion: 2
+        x: 2370
+        y: 1442
+        width: 211
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d5534bd6e3c1014c9d3371efda16b1a
+      internalID: 1012496299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Mobile2_InterfaceFull_50
+      rect:
+        serializedVersion: 2
+        x: 2690
+        y: 1442
+        width: 211
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e41aad7e5f938f459694cff2c2c7698
+      internalID: 749986985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Mobile2_InterfaceFull_51
+      rect:
+        serializedVersion: 2
+        x: 3012
+        y: 1425
+        width: 133
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f99af204418e1454e84c8d2b61e6edff
+      internalID: -1261840313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Mobile2_InterfaceFull_52
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1223
+        width: 1758
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f8bcdb0d602934cab592374e004275
+      internalID: -1413603693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Mobile2_InterfaceFull_53
+      rect:
+        serializedVersion: 2
+        x: 2128
+        y: 1158
+        width: 91
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b230678060ce6a42b4b8325e61d4bee
+      internalID: 697260542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Mobile2_InterfaceFull_54
+      rect:
+        serializedVersion: 2
+        x: 2438
+        y: 1149
+        width: 88
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af063419b243a5947b7c2a3ce92026da
+      internalID: -416053036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Mobile2_InterfaceFull_55
+      rect:
+        serializedVersion: 2
+        x: 2711
+        y: 1147
+        width: 129
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f659ed969947847b81c974e929770a
+      internalID: -1621444658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Mobile2_InterfaceFull_56
+      rect:
+        serializedVersion: 2
+        x: 3033
+        y: 1147
+        width: 89
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed9aa8be6be2a3446afd36c3d87faa54
+      internalID: 1954442003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Mobile2_InterfaceFull_57
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 916
+        width: 211
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d2d1a9a50274947a8e0a64fa822dc9
+      internalID: -6320130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Mobile2_InterfaceFull_58
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 918
+        width: 211
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d7f1e89a781f44ebca7d3bf0199247
+      internalID: 588218399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Mobile2_InterfaceFull_59
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 964
+        width: 99
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de7b3a22ba88d0544992f9e59080b910
+      internalID: 1580923487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Mobile2_InterfaceFull_60
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 970
+        width: 99
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0940cef9188cdb04dbe70d596daf6463
+      internalID: -1722774538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Mobile2_InterfaceFull_61
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 975
+        width: 99
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b898b1cfbdeb01b459d5a02dd9b2e0cb
+      internalID: -769586560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Mobile2_InterfaceFull_62
+      rect:
+        serializedVersion: 2
+        x: 1751
+        y: 954
+        width: 131
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7669590cea58b0640945f72dfd723662
+      internalID: 1531320914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Mobile2_InterfaceFull_63
+      rect:
+        serializedVersion: 2
+        x: 2111
+        y: 926
+        width: 110
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b927eccb92401b644a1688c02ae28cdf
+      internalID: 1325402672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Mobile2_InterfaceFull_64
+      rect:
+        serializedVersion: 2
+        x: 2412
+        y: 920
+        width: 110
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55464fa65d6599748bcfab9502e90362
+      internalID: 2049417788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Mobile2_InterfaceFull_65
+      rect:
+        serializedVersion: 2
+        x: 2711
+        y: 922
+        width: 129
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e46300c90db8d174dab2cd28db1d2732
+      internalID: 888843866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Mobile2_InterfaceFull_66
+      rect:
+        serializedVersion: 2
+        x: 3031
+        y: 947
+        width: 99
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcae3d4cd92a141499b2a7af2ebd32ce
+      internalID: -561622927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Mobile2_InterfaceFull_67
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 722
+        width: 139
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab66af0a9310854abf629860b2eaabd
+      internalID: 1034527451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Mobile2_InterfaceFull_68
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 699
+        width: 137
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cbcee3b275e80342bad88737d63f031
+      internalID: 1980963394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Mobile2_InterfaceFull_69
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 88
+        width: 1430
+        height: 529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 543a143073cb97c48ba6647b9aa870ce
+      internalID: -1399416089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Mobile2_InterfaceFull_70
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 202
+        width: 268
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4272a596bebc8df4d9e46afd90c427f6
+      internalID: -1110858913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Mobile2_InterfaceFull_71
+      rect:
+        serializedVersion: 2
+        x: 2181
+        y: 187
+        width: 297
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 478c2ca06867d6641a6b9939b7616a74
+      internalID: -1334313628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      UI_Mobile2_InterfaceFull_0: -1368393643
+      UI_Mobile2_InterfaceFull_1: -989944625
+      UI_Mobile2_InterfaceFull_10: -2028649879
+      UI_Mobile2_InterfaceFull_11: -1740874882
+      UI_Mobile2_InterfaceFull_12: -421766350
+      UI_Mobile2_InterfaceFull_13: 1180120979
+      UI_Mobile2_InterfaceFull_14: 255566208
+      UI_Mobile2_InterfaceFull_15: -960615824
+      UI_Mobile2_InterfaceFull_16: 32604332
+      UI_Mobile2_InterfaceFull_17: -1423236713
+      UI_Mobile2_InterfaceFull_18: -1062521579
+      UI_Mobile2_InterfaceFull_19: 339110676
+      UI_Mobile2_InterfaceFull_2: -985322460
+      UI_Mobile2_InterfaceFull_20: -981519204
+      UI_Mobile2_InterfaceFull_21: 810493200
+      UI_Mobile2_InterfaceFull_22: 925525019
+      UI_Mobile2_InterfaceFull_23: -1904607516
+      UI_Mobile2_InterfaceFull_24: -2095895540
+      UI_Mobile2_InterfaceFull_25: -802027846
+      UI_Mobile2_InterfaceFull_26: 527877960
+      UI_Mobile2_InterfaceFull_27: -1760571475
+      UI_Mobile2_InterfaceFull_28: -813450316
+      UI_Mobile2_InterfaceFull_29: -666547023
+      UI_Mobile2_InterfaceFull_3: -1523775221
+      UI_Mobile2_InterfaceFull_30: 1214485196
+      UI_Mobile2_InterfaceFull_31: -1461985679
+      UI_Mobile2_InterfaceFull_32: 1600442992
+      UI_Mobile2_InterfaceFull_33: -569668089
+      UI_Mobile2_InterfaceFull_34: 828760744
+      UI_Mobile2_InterfaceFull_35: -1323300946
+      UI_Mobile2_InterfaceFull_36: 1852410032
+      UI_Mobile2_InterfaceFull_37: 1486745499
+      UI_Mobile2_InterfaceFull_38: -693730274
+      UI_Mobile2_InterfaceFull_39: 874248947
+      UI_Mobile2_InterfaceFull_4: -1640317085
+      UI_Mobile2_InterfaceFull_40: 973226123
+      UI_Mobile2_InterfaceFull_41: -1403427309
+      UI_Mobile2_InterfaceFull_42: -1637426545
+      UI_Mobile2_InterfaceFull_43: -1728169328
+      UI_Mobile2_InterfaceFull_44: -1738637035
+      UI_Mobile2_InterfaceFull_45: 1390079753
+      UI_Mobile2_InterfaceFull_46: -2048024913
+      UI_Mobile2_InterfaceFull_47: 1629211188
+      UI_Mobile2_InterfaceFull_48: -1965677981
+      UI_Mobile2_InterfaceFull_49: 1012496299
+      UI_Mobile2_InterfaceFull_5: 1129283518
+      UI_Mobile2_InterfaceFull_50: 749986985
+      UI_Mobile2_InterfaceFull_51: -1261840313
+      UI_Mobile2_InterfaceFull_52: -1413603693
+      UI_Mobile2_InterfaceFull_53: 697260542
+      UI_Mobile2_InterfaceFull_54: -416053036
+      UI_Mobile2_InterfaceFull_55: -1621444658
+      UI_Mobile2_InterfaceFull_56: 1954442003
+      UI_Mobile2_InterfaceFull_57: -6320130
+      UI_Mobile2_InterfaceFull_58: 588218399
+      UI_Mobile2_InterfaceFull_59: 1580923487
+      UI_Mobile2_InterfaceFull_6: 557407606
+      UI_Mobile2_InterfaceFull_60: -1722774538
+      UI_Mobile2_InterfaceFull_61: -769586560
+      UI_Mobile2_InterfaceFull_62: 1531320914
+      UI_Mobile2_InterfaceFull_63: 1325402672
+      UI_Mobile2_InterfaceFull_64: 2049417788
+      UI_Mobile2_InterfaceFull_65: 888843866
+      UI_Mobile2_InterfaceFull_66: -561622927
+      UI_Mobile2_InterfaceFull_67: 1034527451
+      UI_Mobile2_InterfaceFull_68: 1980963394
+      UI_Mobile2_InterfaceFull_69: -1399416089
+      UI_Mobile2_InterfaceFull_7: 823305306
+      UI_Mobile2_InterfaceFull_70: -1110858913
+      UI_Mobile2_InterfaceFull_71: -1334313628
+      UI_Mobile2_InterfaceFull_8: -702860556
+      UI_Mobile2_InterfaceFull_9: -2012293239
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

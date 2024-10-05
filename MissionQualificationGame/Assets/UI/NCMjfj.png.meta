@@ -1,0 +1,919 @@
+fileFormatVersion: 2
+guid: 239db7f9246a0334db04c5feb67e95ed
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NCMjfj_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 542.25
+        width: 133.44444
+        height: 180.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b0c85fcb98cf2142bdf700a90c171d7
+      internalID: -1096832819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NCMjfj_1
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 542.25
+        width: 133.44444
+        height: 180.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3d39505eae0ea48beffb872cb1a496
+      internalID: -961493389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NCMjfj_2
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 542.25
+        width: 133.44444
+        height: 180.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6fa6e5f74572db4a96170e686c84e39
+      internalID: -470591671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NCMjfj_3
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 542.25
+        width: 133.44444
+        height: 180.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0154b4a126c4d444bf4806335e9d0ea
+      internalID: 174346405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NCMjfj_4
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 542.25
+        width: 133.44444
+        height: 180.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b03e6e1acee3e0d408f2197d3e8d8e3e
+      internalID: -1979128136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NCMjfj_5
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 542.25
+        width: 133.44444
+        height: 180.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b5bbaf981eded545a2422309b899c97
+      internalID: 437288777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NCMjfj_6
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 542.25
+        width: 133.44444
+        height: 180.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 960b6e60c44c9964da55322a6773cf1d
+      internalID: 1827068606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NCMjfj_7
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 542.25
+        width: 133.44444
+        height: 180.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee2d73c4acba3e43b1f4e12224850a2
+      internalID: -1192693050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NCMjfj_8
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 542.25
+        width: 133.44444
+        height: 180.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd823742fd607c145aad88ef72ad93cc
+      internalID: -1636705982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NCMjfj_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 362
+        width: 100
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c586a2fc9758b4a8a09281b2135752
+      internalID: 928001844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NCMjfj_10
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 362
+        width: 167
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2081fb39a55e2cd46bc30d400e8c406a
+      internalID: -1398913378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NCMjfj_11
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 353
+        width: 133
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd7ddc999e48fa44a68b29dbb689fc0
+      internalID: -1285256243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NCMjfj_12
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 360
+        width: 133
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9142f8cf54c3e4e9a774f6aeacdf42
+      internalID: 517229402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NCMjfj_13
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 362.25
+        width: 133.44444
+        height: 180.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f12a51c62d9c29040933a2e578c13db2
+      internalID: 1855110974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NCMjfj_14
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 362.25
+        width: 133.44444
+        height: 180.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc23fdfe08c32240ba39e9f0d3b408f
+      internalID: 91250460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NCMjfj_15
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 362
+        width: 145
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31fd37adff26cbe4a9bd9ca22934546e
+      internalID: -438196136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NCMjfj_16
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 361
+        width: 149
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8067e4e04328f89448a733b7b1cd129a
+      internalID: -140966381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NCMjfj_17
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 362
+        width: 101
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 090f0521c468d984e92bd4b978a8073e
+      internalID: 765127629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NCMjfj_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 182
+        width: 100
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc854ab7c5cba54f830cc72857f1ce7
+      internalID: -519013200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NCMjfj_19
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 182
+        width: 157
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dbfb0f7c6bd81747ae64fd3cc71d872
+      internalID: -1139985378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NCMjfj_20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 182
+        width: 143
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8453e6bcc44822d4a966f0089c57f0e8
+      internalID: 1668004223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NCMjfj_21
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 182
+        width: 149
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c71e3bc521dd1640b37f2ec04b3e202
+      internalID: 1144318759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NCMjfj_22
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 181
+        width: 117
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58927a8dec3f95945b86ff4f9f3aeea5
+      internalID: -853404665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NCMjfj_23
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 210
+        width: 120
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b3bdf72e392354bb56a5b7f9b76bb5
+      internalID: 25019407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NCMjfj_24
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 181
+        width: 158
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a12ff847c7c1910449ac6823b8587354
+      internalID: -1634184623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NCMjfj_25
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 182
+        width: 154
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bfffa58fbce62d4fb023c105fe5d234
+      internalID: -1147082948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NCMjfj_26
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 181
+        width: 90
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6799075b212f59c4eb95ccbe882dac3d
+      internalID: -1181730862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NCMjfj_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2.25
+        width: 133.44444
+        height: 180.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 136b717a44354a9468932b5695344f14
+      internalID: 1093455326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NCMjfj_28
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 2.25
+        width: 133.44444
+        height: 180.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da3749ef8cb94e4ca084319b837c90b
+      internalID: 1233819234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NCMjfj_29
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 2.25
+        width: 133.44444
+        height: 180.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c18ea7af873fce54f9b26bc19cb070db
+      internalID: 1542168470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NCMjfj_30
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 2.25
+        width: 133.44444
+        height: 180.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d6dcf818d87bb48a91cad11874ad8a
+      internalID: -429544628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NCMjfj_31
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 2.25
+        width: 133.44444
+        height: 180.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2260f9c7b7b485043a9d1d79e5955ba7
+      internalID: -838365368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NCMjfj_32
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 2.25
+        width: 133.44444
+        height: 180.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697fe2c4a243b2d46be7b0bd9b32d150
+      internalID: 470818259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NCMjfj_33
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 2.25
+        width: 133.44444
+        height: 180.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9760eed63ae12c740a66d117cf47544f
+      internalID: 1635938282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NCMjfj_34
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 2.25
+        width: 133.44444
+        height: 180.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b53e5ef4d64a1614cbf509677babb152
+      internalID: -1436609719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NCMjfj_35
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 2.25
+        width: 133.44444
+        height: 180.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee121e1408ef61a4e8bf8bf7ac226905
+      internalID: 441519386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      NCMjfj_0: -1096832819
+      NCMjfj_1: -961493389
+      NCMjfj_10: -1398913378
+      NCMjfj_11: -1285256243
+      NCMjfj_12: 517229402
+      NCMjfj_13: 1855110974
+      NCMjfj_14: 91250460
+      NCMjfj_15: -438196136
+      NCMjfj_16: -140966381
+      NCMjfj_17: 765127629
+      NCMjfj_18: -519013200
+      NCMjfj_19: -1139985378
+      NCMjfj_2: -470591671
+      NCMjfj_20: 1668004223
+      NCMjfj_21: 1144318759
+      NCMjfj_22: -853404665
+      NCMjfj_23: 25019407
+      NCMjfj_24: -1634184623
+      NCMjfj_25: -1147082948
+      NCMjfj_26: -1181730862
+      NCMjfj_27: 1093455326
+      NCMjfj_28: 1233819234
+      NCMjfj_29: 1542168470
+      NCMjfj_3: 174346405
+      NCMjfj_30: -429544628
+      NCMjfj_31: -838365368
+      NCMjfj_32: 470818259
+      NCMjfj_33: 1635938282
+      NCMjfj_34: -1436609719
+      NCMjfj_35: 441519386
+      NCMjfj_4: -1979128136
+      NCMjfj_5: 437288777
+      NCMjfj_6: 1827068606
+      NCMjfj_7: -1192693050
+      NCMjfj_8: -1636705982
+      NCMjfj_9: 928001844
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

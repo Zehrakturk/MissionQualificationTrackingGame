@@ -1,0 +1,54 @@
+{
+    "name": "kapi",
+    "maps": [
+        {
+            "name": "KapiTus",
+            "id": "fa48d290-e3ba-4f75-b513-267d8e125e1c",
+            "actions": [
+                {
+                    "name": "acilis",
+                    "type": "Button",
+                    "id": "377e8a8a-6822-446a-b50b-6241cd1b007c",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "kapanis",
+                    "type": "Button",
+                    "id": "116e0070-5c96-4f7a-8879-e483629b97f4",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "a05d95bb-f1ee-46f5-b171-bcf562d27c62",
+                    "path": "<Keyboard>/e",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "acilis",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "8f120dc4-360d-4962-86e9-a2c079dd443b",
+                    "path": "<Keyboard>/e",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "kapanis",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

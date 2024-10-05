@@ -1,0 +1,54 @@
+{
+    "name": "kapı actions",
+    "maps": [
+        {
+            "name": "kapı",
+            "id": "a44ef1f8-cf06-4de4-8203-4ab13aa54d6f",
+            "actions": [
+                {
+                    "name": "acıl",
+                    "type": "Value",
+                    "id": "8c9b39f6-496a-4292-a1b2-d4a24de5b30b",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "kapan",
+                    "type": "Button",
+                    "id": "851ec45e-d2fc-4c8d-bd16-2be0658159bd",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "b1e57c96-f58d-4601-8889-2b0b9fb1d2d1",
+                    "path": "<Keyboard>/e",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "acıl",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "229b0178-9dad-4c9e-8856-b609b040dad6",
+                    "path": "<Keyboard>/e",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "kapan",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
